@@ -1,0 +1,6 @@
+== pdf_generator wrapper ==
+
+USAGE
+Pass HTML file name or file path to fn
+iex(1)> PDF.generate("file.html")
+"result.pdf" is in root folder of app

@@ -1,0 +1,3 @@
+%{
+  "pdf_generator": {:hex, :pdf_generator, "0.6.0", "7dd577b96c06eabc7ca861ff85ac3fa991abea8ff3059bffb1f7c170d4a00f2c", [:mix], [], "hexpm", "250e9b3c1bff4e26c30f2ce542f1851120a897543d524c613d1c440300c025f7"},
+}
